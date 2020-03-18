@@ -143,5 +143,5 @@ media
 static
 
 # my ignore files
-test/
+test
 
